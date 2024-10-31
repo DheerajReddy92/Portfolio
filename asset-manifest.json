@@ -1,19 +1,37 @@
 {
   "files": {
     "main.css": "/Portfolio/static/css/main.5e768a72.css",
-    "main.js": "/Portfolio/static/js/main.778834c7.js",
+    "main.js": "/Portfolio/static/js/main.a98f7495.js",
     "static/js/453.949e7155.chunk.js": "/Portfolio/static/js/453.949e7155.chunk.js",
     "static/media/dev-removebg.png": "/Portfolio/static/media/dev-removebg.f960381c786a722033b4.png",
+    "static/media/python.png": "/Portfolio/static/media/python.a019ac76a19fbe939f5b.png",
+    "static/media/mail.png": "/Portfolio/static/media/mail.ba3d78aae0b730bb06c2.png",
+    "static/media/vscode.png": "/Portfolio/static/media/vscode.9bc6e588b5f2b867a8a4.png",
     "static/media/exo.otf": "/Portfolio/static/media/exo.2a2f92be269e727b37f3.otf",
+    "static/media/algorithms.png": "/Portfolio/static/media/algorithms.1ab656a806287a726d7c.png",
+    "static/media/dl.png": "/Portfolio/static/media/dl.33101b53973cbad7d756.png",
+    "static/media/nodejs.png": "/Portfolio/static/media/nodejs.8932de3eedf20f58ea38.png",
+    "static/media/phone.png": "/Portfolio/static/media/phone.2c8aacfb015732d4254b.png",
     "static/media/Gotham-Ultra.ttf": "/Portfolio/static/media/Gotham-Ultra.19070afca14e8ec71965.ttf",
+    "static/media/in.png": "/Portfolio/static/media/in.cafbf5fbd6ca57a0b462.png",
+    "static/media/pandas.png": "/Portfolio/static/media/pandas.ab804e31cf944bbe8d26.png",
+    "static/media/css.png": "/Portfolio/static/media/css.4cdd0cb3427bfe3be8e7.png",
+    "static/media/angular.png": "/Portfolio/static/media/angular.f687692531749d7257fc.png",
     "static/media/flux.otf": "/Portfolio/static/media/flux.fe1a595be58bc09a534a.otf",
+    "static/media/gitlogo.png": "/Portfolio/static/media/gitlogo.dfdd0989ffe0184bdd68.png",
+    "static/media/numpy.png": "/Portfolio/static/media/numpy.54dc2dc0aafddd45de46.png",
+    "static/media/html.png": "/Portfolio/static/media/html.5a55fb96a6be0ae7725e.png",
+    "static/media/ml.png": "/Portfolio/static/media/ml.cd3ffdc86b9ed7dd6f1f.png",
+    "static/media/docker.svg": "/Portfolio/static/media/docker.5beeb87cc5cd9d3d77bde66a26c9de82.svg",
+    "static/media/loc.png": "/Portfolio/static/media/loc.85376288b3aaf6727ba7.png",
+    "static/media/gcp.svg": "/Portfolio/static/media/gcp.b11179b8e937826653795fbfcae31814.svg",
     "index.html": "/Portfolio/index.html",
     "main.5e768a72.css.map": "/Portfolio/static/css/main.5e768a72.css.map",
-    "main.778834c7.js.map": "/Portfolio/static/js/main.778834c7.js.map",
+    "main.a98f7495.js.map": "/Portfolio/static/js/main.a98f7495.js.map",
     "453.949e7155.chunk.js.map": "/Portfolio/static/js/453.949e7155.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.5e768a72.css",
-    "static/js/main.778834c7.js"
+    "static/js/main.a98f7495.js"
   ]
 }
