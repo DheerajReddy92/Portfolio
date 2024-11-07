@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/Portfolio/static/css/main.7e02d313.css",
-    "main.js": "/Portfolio/static/js/main.d1fbc90d.js",
+    "main.css": "/Portfolio/static/css/main.5b5c052c.css",
+    "main.js": "/Portfolio/static/js/main.97ce42ad.js",
     "static/js/453.949e7155.chunk.js": "/Portfolio/static/js/453.949e7155.chunk.js",
     "static/media/dev-removebg.png": "/Portfolio/static/media/dev-removebg.f960381c786a722033b4.png",
     "static/media/webicon.png": "/Portfolio/static/media/webicon.d852017688774c43fefa.png",
@@ -18,6 +18,7 @@
     "static/media/Debrosee.ttf": "/Portfolio/static/media/Debrosee.a5d65bb84e1f3a691461.ttf",
     "static/media/css.png": "/Portfolio/static/media/css.4cdd0cb3427bfe3be8e7.png",
     "static/media/angular.png": "/Portfolio/static/media/angular.f687692531749d7257fc.png",
+    "static/media/background.png": "/Portfolio/static/media/background.41573300bf88269c7339.png",
     "static/media/pythonicon.png": "/Portfolio/static/media/pythonicon.d593e6abdc6d7e17aa86.png",
     "static/media/leetcode.png": "/Portfolio/static/media/leetcode.82d78a2b37ec54f6dce1.png",
     "static/media/flux.otf": "/Portfolio/static/media/flux.fe1a595be58bc09a534a.otf",
@@ -33,12 +34,12 @@
     "static/media/react.svg": "/Portfolio/static/media/react.03d6696612ee0753678bac62b6b4144b.svg",
     "static/media/gcp.svg": "/Portfolio/static/media/gcp.b11179b8e937826653795fbfcae31814.svg",
     "index.html": "/Portfolio/index.html",
-    "main.7e02d313.css.map": "/Portfolio/static/css/main.7e02d313.css.map",
-    "main.d1fbc90d.js.map": "/Portfolio/static/js/main.d1fbc90d.js.map",
+    "main.5b5c052c.css.map": "/Portfolio/static/css/main.5b5c052c.css.map",
+    "main.97ce42ad.js.map": "/Portfolio/static/js/main.97ce42ad.js.map",
     "453.949e7155.chunk.js.map": "/Portfolio/static/js/453.949e7155.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.7e02d313.css",
-    "static/js/main.d1fbc90d.js"
+    "static/css/main.5b5c052c.css",
+    "static/js/main.97ce42ad.js"
   ]
 }
